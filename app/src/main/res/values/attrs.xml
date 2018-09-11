@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NestScrollLayout">
+        <attr format="dimension" name="nslHeaderRemainHeight"/>
+        <attr format="boolean" name="snlIsSticky"/>
+    </declare-styleable>
+</resources>
